@@ -1,0 +1,39 @@
+# =========================================================
+# Vivado generated artefacts — do NOT commit
+# =========================================================
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.gen/
+*.Xil/
+.Xil/
+
+# Vivado logs / journals / temp
+*.jou
+*.log
+*.pb
+*.rpx
+*.str
+*.os
+*.wdb
+*.wcfg
+*.backup.*
+webtalk*.xml
+xsim.dir/
+fsm_encoding.os
+hd_visual/
+.hbs/
+
+# IP user files
+ip_user_files/
+
+# =========================================================
+# OS / editor
+# =========================================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
